@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.head {
+  background: #2a2d3d;
+  height: 200px;
+  width: 100%;
+  margin: 0;
+  padding:0;
+  color:#fff;
+
+}
+
+.logotext{
+  text-align:left;
+  font-size:60px;
+  padding:50px;
+}

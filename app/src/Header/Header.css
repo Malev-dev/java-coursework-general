@@ -1,0 +1,49 @@
+.head {
+  background: #2a2d3d;
+  height: 100px;
+  width: 100%;
+  margin: 0;
+  padding:10px;
+  color:#fff;
+  display: flex;
+  justify-content: space-between;
+  
+
+}
+
+.logotext{
+  text-align:left;
+  font-size:60px;
+  padding:50px;
+  font-weight: bold;
+  
+}
+
+a{
+  color:#fff;
+  text-decoration: none;
+}
+
+.header_section{
+  display: flex;
+  align-items: center;
+  text-align:center;
+  justify-content: center;
+
+  
+
+}
+
+.header_item{
+  padding:10px 15px;
+  font-size: 20px;
+  margin-left: 5px;
+  
+}
+
+.header_item:hover{
+  background: #a4f000;
+  color:#fff;
+  border-radius:10px;
+  
+}
