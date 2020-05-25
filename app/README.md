@@ -1,4 +1,5 @@
-    dev new maket for convert APP and use API currency
+   Finishing this project of Convert Money
+   dev new maket for convert APP and use API currency
     
     Add API currency on my new project
 
